@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.folder == "00_DeskWars/02_タスク管理/タスクチケット"
