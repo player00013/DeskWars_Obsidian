@@ -11,20 +11,24 @@
             "id": "142275e698594ed0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_DeskWars/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "00_DeskWars/02_タスク管理/タスクチケット/ステージ1_デバック.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
+              "icon": "lucide-file",
+              "title": "ステージ1_デバック"
             }
           }
         ]
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_DeskWars/02_タスク管理/タスクボード.md",
+                "file": "00_DeskWars/02_タスク管理/タスクチケット/ステージ1_デバック.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +226,8 @@
   },
   "active": "142275e698594ed0",
   "lastOpenFiles": [
-    "00_DeskWars/02_タスク管理/タスクベース.base",
     "00_DeskWars/02_タスク管理/タスクボード.md",
+    "00_DeskWars/02_タスク管理/タスクベース.base",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1_デバック.md",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
