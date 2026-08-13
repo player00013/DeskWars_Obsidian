@@ -8,23 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "142275e698594ed0",
+            "id": "bc90bb4e81c93b87",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_DeskWars/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "00_DeskWars/02_タスク管理/タスクチケット/デバックルール.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
+              "icon": "lucide-file",
+              "title": "デバックルール"
             }
           }
         ]
@@ -220,10 +224,57 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "142275e698594ed0",
+  "floating": {
+    "id": "d5da009abe1c95d2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4f5b12337332c0d0",
+        "type": "window",
+        "children": [
+          {
+            "id": "9306ace7374f7988",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "142275e698594ed0",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "00_DeskWars/02_タスク管理/タスクボード.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "タスクボード"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 836,
+        "y": -1421,
+        "width": 319,
+        "height": 519,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bc90bb4e81c93b87",
   "lastOpenFiles": [
-    "00_DeskWars/02_タスク管理/タスクチケット/ステージ1_デバック.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/デバックルール.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/ステージ1_デバック.md",
     "00_DeskWars/02_タスク管理/タスクベース.base",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
